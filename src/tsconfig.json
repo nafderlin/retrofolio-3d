@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "moduleResolution": "node",
+        "strict": true,
+        "ignoreDeprecations": "6.0",
+        "paths": {
+            "three/examples/jsm/libs/dat.gui.module": [
+                "../node_modules/@types/dat.gui"
+            ]
+        },
+        "strictPropertyInitialization": false,
+        "allowSyntheticDefaultImports": true,
+        "jsx": "react"
+    },
+
+    "include": ["Application/*", "./*"]
+}
