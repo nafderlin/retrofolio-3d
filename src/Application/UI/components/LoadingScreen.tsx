@@ -227,7 +227,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                     <p>But do enjoy what I have done so far :)</p>
                     <div style={styles.spacer} />
                     <div style={styles.spacer} /> */}
-                    <p>Abu Bakr (Nafderlin) Portfolio Showcase 2022</p>
+                    <p>Abu Bakr (Nafderlin) Portfolio Showcase 2026</p>
                     {mobileWarning && (
                         <>
                             <br />
